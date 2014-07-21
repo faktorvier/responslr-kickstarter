@@ -1,0 +1,3 @@
+[submodule "responslr"]
+	path = responslr
+	url = https://github.com/faktorvier/responslr.git
